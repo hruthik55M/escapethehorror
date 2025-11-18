@@ -8,7 +8,7 @@ Your objective: Solve puzzles, unlock clues, and escape each world to progress t
 
 This project is structured for easy expansion—new worlds, puzzles, and mechanics can be added using the same template.
 
-🚀 Features
+ Features
 
 Multiple interconnected worlds (world1.py → world5.py)
 
