@@ -20,7 +20,9 @@ Clean modular architecture; each world is self-contained
 escape-room-game/
 │
 ├── main_game.py
-│   └─ Entry point of the game. Initializes the engine, loads worlds, and starts the adventure.
+│   └─ Entry point of the game.
+│       Initializes the engine, loads worlds,
+│       and starts the adventure.
 │
 ├── game_engine.py
 │   └─ Core game logic:
@@ -54,7 +56,7 @@ escape-room-game/
 │       - Climactic reveal or final challenge
 │
 └── README.md
-    └─ Documentation and game structure overview (this file)
+    └─ Documentation and game structure overview
 
 
 
